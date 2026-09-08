@@ -81,11 +81,11 @@ The project analyzes **50,942 MIS-related job postings** across **11,322 compani
 
 ### Dataset
 
-**MIS Job Market Dataset**  
+### MIS Job Market Dataset 
 
 ### Interactive Dashboard
 
-**MIS Market Analysis Dashboard**  
+### MIS Market Analysis Dashboard  
 
 ### Reports & Presentations
 
